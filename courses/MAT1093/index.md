@@ -42,8 +42,8 @@ katex: true
     <th>Quotient Identities</th>
   </tr>
   <tr>
-    <td>\\( \sin\theta = \dfrac{1}{\csc\theta} \\)</td>
-    <td>\\( \tan\theta = \dfrac{\sin\theta}{\cos\theta} \quad \cot\theta = \dfrac{\cos\theta}{\sin\theta} \\)</td>
+    <td>$ \sin\theta = \dfrac{1}{\csc\theta} $</td>
+    <td>$$ \tan\theta = \dfrac{\sin\theta}{\cos\theta} \quad \cot\theta = \dfrac{\cos\theta}{\sin\theta} $$</td>
   </tr>
 </table>
 </p>
