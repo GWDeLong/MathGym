@@ -46,6 +46,8 @@ katex: true
 $$ \csc\theta = \dfrac{1}{\sin \theta} \quad \sec\theta = \dfrac{1}{\cos\theta} \quad \cot\theta = \dfrac{1}{\tan\theta} $$</td>
     <td>$$ \tan\theta = \dfrac{\sin\theta}{\cos\theta} \quad \cot\theta = \dfrac{\cos\theta}{\sin\theta} $$</td>
   </tr>
+</table>
+  <table>
   <tr>
     <th>Pythagorean Identities</th>
   </tr>
