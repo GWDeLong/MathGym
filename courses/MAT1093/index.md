@@ -51,7 +51,7 @@ $$ \tan\theta = \dfrac{\sin\theta}{\cos\theta} \quad \cot\theta = \dfrac{\cos\th
 </td>
   </tr>
   </table>
-#########################
+<!-- BREAK -->
   <table>
   <tr>
     <th>Pythagorean Identities</th>
@@ -62,7 +62,7 @@ $$ \sin^2\theta + \cos^2\theta = 1 \qquad \tan^2\theta + 1 = \sec^2\theta \qquad
 </td>
   </tr>
   </table>
-#########################
+<!-- BREAK -->
   <table>
   <tr>
     <th>Cofunction Identities</th>
@@ -81,7 +81,7 @@ $$ \tan(-\theta) = -\tan\theta \quad \cot(-\theta) = -\cot\theta $$
 </td>
   </tr>
 </table>
-#########################
+<!-- BREAK -->
   <table>
   <tr>
     <th>Sum of Angles Identities</th>
@@ -102,7 +102,7 @@ $$
 </td>
   </tr>
 </table>
-#########################
+<!-- BREAK -->
   <table>
   <tr>
     <th>Double-Angle Identities</th>
@@ -115,7 +115,7 @@ $$ \cos 2\theta = 2\cos^2\theta - 1 $$
 </td>
   </tr>
   </table>
-#########################
+<!-- BREAK -->
   <table>
   <tr>
     <th>Half-Angle Identities</th>
@@ -130,7 +130,7 @@ $$ \sin \frac{\theta}{2} = \pm \sqrt{\frac{1 - \cos \theta}{2}} \quad
 </td>
   </tr>
   </table>
-#########################
+<!-- BREAK -->
   <table>
   <tr>
     <th>Power-Reducing Identities</th>
@@ -141,7 +141,7 @@ $$ \sin^2\theta = \frac{1 - \cos 2\theta}{2} \qquad \cos^2\theta = \frac{1 + \co
 </td>
   </tr>
   </table>
-#########################
+<!-- BREAK -->
   <table>
   <tr>
     <th>Product-to-Sum Identities</th>
@@ -162,7 +162,6 @@ $$ \cos A - \cos B = -2\sin\left( \frac{A + B}{2} \right) \cdot \sin\left( \frac
 </td>
   </tr>
 </table>
-#########################
 </p>
 
 
