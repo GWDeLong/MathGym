@@ -19,6 +19,7 @@ katex: true
       { left: '\\[', right: '\\]', display: true  },
       { left: '\\(', right: '\\)', display: false }
   ]});">
+</script>
 
 {% endif %}
 
