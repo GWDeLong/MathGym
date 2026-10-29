@@ -1,8 +1,14 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Math Gym Resources
+description: Resources compiled for the UT San Antonio Math Gym
 theme: just-the-docs
+color_scheme: light
+favicon_ico: "/assets/images/mg.ico"
 
-url: https://just-the-docs.github.io
+url: https://GWDeLong.github.io/MathGym
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+    Main Website: "https://sciences.utsa.edu/mathematics/students/math-gym.html"
+
+#Code bits
+#Markdown ![]({{site.baseurl}}/assets/images/X.png)
+#HTML <img src="{{site.baseurl}}/assets/images/X.png" alt="alt text" width="200"/>
