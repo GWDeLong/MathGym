@@ -6,6 +6,9 @@ favicon_ico: "/assets/images/mg.ico"
 
 url: https://GWDeLong.github.io/MathGym
 
+plugins:
+- jekyll-katex
+
 aux_links:
     Main Website: "https://sciences.utsa.edu/mathematics/students/math-gym.html"
 
