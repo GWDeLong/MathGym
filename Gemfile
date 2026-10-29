@@ -8,5 +8,5 @@ gem "just-the-docs", "0.12.0" # pinned to the current release
 
 
 
-gem "jekyll-katex"
+#gem "jekyll-katex"
 
