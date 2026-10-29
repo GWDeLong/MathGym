@@ -34,9 +34,19 @@ katex: true
 </p>
 
 ## Trigonometric Identites
-| Reciprocal Identities | Quotient Identities |
-| ----------- | ----------- |
-| \\( \sin\theta = \dfrac{1}{\csc\theta} \\) | \\( \tan\theta = \dfrac{\sin\theta}{\cos\theta} \quad \cot\theta = \dfrac{\cos\theta}{\sin\theta} \\) |
+
+<p align="center">
+  <table>
+  <tr>
+    <th>Reciprocal Identities</th>
+    <th>Quotient Identities</th>
+  </tr>
+  <tr>
+    <td>\\( \sin\theta = \dfrac{1}{\csc\theta} \\)</td>
+    <td>\\( \tan\theta = \dfrac{\sin\theta}{\cos\theta} \quad \cot\theta = \dfrac{\cos\theta}{\sin\theta} \\)</td>
+  </tr>
+</table>
+</p>
 
 
 
