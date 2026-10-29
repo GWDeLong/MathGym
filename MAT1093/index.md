@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MAT 1043 - Precalulus
+title: Precalulus
 katex: true
 ---
 
