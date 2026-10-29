@@ -36,7 +36,7 @@ katex: true
   <img src="/MathGym/assets/images/Unit Circle.jpg" alt="Unit Cricle" style="width:100%;">
 </p>
 
-## Trigonometric Identites
+## Trigonometric Identities
 
 <p align="center">
   <table>
@@ -167,7 +167,25 @@ $$ \cos A - \cos B = -2\sin\left( \frac{A + B}{2} \right) \cdot \sin\left( \frac
 </table>
 </p>
 
+## Law of Sine and Cosines
 
+<p align="center">
+  <table>
+  <tr>
+    <th>Law of Sines</th>
+  </tr>
+  <tr>
+    <td>
+Let $\alpha, \beta, \gamma$ be angles of a triangle with opposite side lengths of $a, b, c$, respectively. Then
+$$ \frac{\sin \alpha}{a} = \frac{\sin \beta}{b} = \frac{\sin \gamma}{c} $$
+</td>
+  </tr>
+  </table>
+</p>
+
+## Polar Identities
+
+## Exponential/Logarithmic Properties
 
 
 
