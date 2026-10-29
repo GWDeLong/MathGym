@@ -123,8 +123,8 @@ $$ \cos 2\theta = 2\cos^2\theta - 1 $$
   <tr>
     <td>
 $$ \sin \frac{\theta}{2} = \pm \sqrt{\frac{1 - \cos \theta}{2}} \quad
-\cos \frac{\theta}{2} = \pm \sqrt{\frac{1 + \cos \theta}{2}} \quad
-\tan \frac{\theta}{2} = \pm \sqrt{\frac{1 - \cos \theta}{1 + \cos \theta}} \quad
+\cos \frac{\theta}{2} = \pm \sqrt{\frac{1 + \cos \theta}{2}} $$
+$$ \tan \frac{\theta}{2} = \pm \sqrt{\frac{1 - \cos \theta}{1 + \cos \theta}} \quad
 \tan \frac{\theta}{2} = \frac{1 - \cos \theta}{\sin \theta} \quad
 \tan \frac{\theta}{2} = \frac{\sin \theta}{1 + \cos \theta} $$
 </td>
@@ -137,8 +137,7 @@ $$ \sin \frac{\theta}{2} = \pm \sqrt{\frac{1 - \cos \theta}{2}} \quad
   </tr>
   <tr>
     <td>
-$$ \sin^2\theta = \frac{1 - \cos 2\theta}{2} \qquad \cos^2\theta = \frac{1 + \cos 2\theta}{2} $$
-$$ \tan^2\theta = \frac{1 - \cos 2\theta}{1 + \cos 2\theta} $$
+$$ \sin^2\theta = \frac{1 - \cos 2\theta}{2} \qquad \cos^2\theta = \frac{1 + \cos 2\theta}{2} \qquad \tan^2\theta = \frac{1 - \cos 2\theta}{1 + \cos 2\theta} $$
 </td>
   </tr>
   </table>
