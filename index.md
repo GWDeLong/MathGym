@@ -17,7 +17,7 @@ Below you can find links to the main website which has in-person Math Gym hours 
 - Studying Mathematics Guide
 
 ## Browse by Topic
-- [MAT 1093 -- Precalculus](/MathGym/MAT1093/)
+- [MAT 1093 -- Precalculus][1093]
 - MAT 1133 -- Calculus for Business
 - MAT 1193 -- Calculus for Biosciences
 - MAT 1213/1214 -- Calculus I
@@ -28,3 +28,4 @@ Below you can find links to the main website which has in-person Math Gym hours 
 - MAT 2253 -- Applied Linear Algebra
 - MAT 3613 -- Differential Equations
 
+[1093]: /MathGym/courses/MAT1093/
