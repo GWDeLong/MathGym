@@ -28,7 +28,7 @@ katex: true
 # The Unit Circle
 
 <p align="center">
-  <img src="/Website/assets/images/Unit Circle.jpg" alt="Unit Cricle" style="width:200px;">
+  <img src="/MathGym/assets/images/Unit Circle.jpg" alt="Unit Cricle" style="width:200px;">
 </p>
 
 
