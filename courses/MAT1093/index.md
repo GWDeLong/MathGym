@@ -25,5 +25,12 @@ katex: true
 
 {% endif %}
 
+# The Unit Circle
+
+<p align="center">
+  <img src="/Website/assets/images/Unit Circle.jpg" alt="Unit Cricle" style="width:200px;">
+</p>
+
+
 This is an example of inline \\(\LaTeX\\). The following is Stokes' theorem in a
 `displaymath` environment: \$$\int_{\partial \Omega} \omega = \int_{\Omega} d\omega\$$
