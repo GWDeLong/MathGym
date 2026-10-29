@@ -169,6 +169,14 @@ $$ \cos A - \cos B = -2\sin\left( \frac{A + B}{2} \right) \cdot \sin\left( \frac
 
 ## Law of Sine and Cosines
 
+Let $\alpha, \beta, \gamma$ be angles of a triangle with opposite corresponding side lengths of $a, b, c$ as show below.
+
+<p align="center">
+  <img src="/MathGym/assets/images/Scalene Triangle.jpg" alt="Scalene Triangle" style="width:75%;">
+</p>
+
+The following laws are true.
+
 <p align="center">
   <table>
   <tr>
@@ -176,13 +184,24 @@ $$ \cos A - \cos B = -2\sin\left( \frac{A + B}{2} \right) \cdot \sin\left( \frac
   </tr>
   <tr>
     <td>
-Let $\alpha, \beta, \gamma$ be angles of a triangle with opposite side lengths of $a, b, c$, respectively. Then
-$$ \frac{\sin \alpha}{a} = \frac{\sin \beta}{b} = \frac{\sin \gamma}{c} $$
+$$ \frac{\sin \alpha}{a} = \frac{\sin \beta}{b} = \frac{\sin \gamma}{c}. $$
+</td>
+  </tr>
+  </table>
+<!-- BREAK -->
+  <table>
+  <tr>
+    <th>Law of Cosines</th>
+  </tr>
+  <tr>
+    <td>
+$$ a^2 = b^2 + c^2 - 2bc \cos \alpha $$
+$$ b^2 = a^2 + c^2 - 2ac \cos \beta $$
+$$ c^2 = a^2 + b^2 - 2ab \cos \gamma $$
 </td>
   </tr>
   </table>
 </p>
-
 ## Polar Identities
 
 ## Exponential/Logarithmic Properties
