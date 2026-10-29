@@ -24,8 +24,11 @@ katex: true
 </script>
 
 {% endif %}
-
 # Precalculus Materials
+
+- TOC
+{:toc}
+
 
 ## The Unit Circle
 
