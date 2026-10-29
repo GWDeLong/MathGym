@@ -25,10 +25,12 @@ katex: true
 
 {% endif %}
 
-# The Unit Circle
+# Precalculus Materials
+
+## The Unit Circle
 
 <p align="center">
-  <img src="/MathGym/assets/images/Unit Circle.jpg" alt="Unit Cricle" style="width:200px;">
+  <img src="/MathGym/assets/images/Unit Circle.jpg" alt="Unit Cricle" style="width:100%;">
 </p>
 
 
