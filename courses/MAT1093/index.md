@@ -33,6 +33,19 @@ katex: true
   <img src="/MathGym/assets/images/Unit Circle.jpg" alt="Unit Cricle" style="width:100%;">
 </p>
 
+## Trigonometric Identites
+| Reciprocal Identities | Quotient Identities |
+| ----------- | ----------- |
+| \\( \sin\theta = \dfrac{1}{\csc\theta} \\) | \\( \tan\theta = \dfrac{\sin\theta}{\cos\theta} \quad \cot\theta = \dfrac{\cos\theta}{\sin\theta} \\) |
+
+
+
+
+
+
+
+
+---
 
 This is an example of inline \\(\LaTeX\\). The following is Stokes' theorem in a
 `displaymath` environment: \$$\int_{\partial \Omega} \omega = \int_{\Omega} d\omega\$$
