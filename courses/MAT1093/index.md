@@ -42,8 +42,15 @@ katex: true
     <th>Quotient Identities</th>
   </tr>
   <tr>
-    <td>$ \sin\theta = \dfrac{1}{\csc\theta} $</td>
+    <td>$$ \sin\theta = \dfrac{1}{\csc\theta} \quad \cos\theta = \dfrac{1}{\sec\theta} \quad \tan\theta = \dfrac{1}{\cot\theta}$$
+$$ \csc\theta = \dfrac{1}{\sin \theta} \quad \sec\theta = \dfrac{1}{\cos\theta} \quad \cot\theta = \dfrac{1}{\tan\theta} $$</td>
     <td>$$ \tan\theta = \dfrac{\sin\theta}{\cos\theta} \quad \cot\theta = \dfrac{\cos\theta}{\sin\theta} $$</td>
+  </tr>
+  <tr>
+    <th>Pythagorean Identities</th>
+  </tr>
+  <tr>
+    <td>$$ \sin^2\theta + \cos^2\theta = 1 \qquad \tan^2\theta + 1 = \sec^2\theta \qquad \cot^2\theta + 1 = \csc^2\theta $$</td>
   </tr>
 </table>
 </p>
