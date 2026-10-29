@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Precalulus
-parent: Teaching
+parent: Content by Course
 nav_order: 1
 katex: true
 ---
