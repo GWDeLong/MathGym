@@ -172,7 +172,7 @@ $$ \cos A - \cos B = -2\sin\left( \frac{A + B}{2} \right) \cdot \sin\left( \frac
 
 ## Law of Sine and Cosines
 
-Let $\alpha, \beta, \gamma$ be angles of a triangle with opposite corresponding side lengths of $a, b, c$ as show below.
+Let $\alpha, \beta, \gamma$ be angles of a triangle with opposite corresponding side lengths of $a, b, c$ as shown below.
 
 <p align="center">
   <img src="/MathGym/assets/images/Scalene Triangle.jpg" alt="Scalene Triangle" style="width:75%;">
