@@ -24,22 +24,24 @@ katex: true
 </script>
 
 {% endif %}
-# Precalculus Materials
+
+# Table of Contents
+{: .no_toc .text-delta }
 
 - TOC
 {:toc}
 
-## Textbook
+# Textbook
 
 - [Topics in Precalculus](https://utsa.pressbooks.pub/precalculus/)
 
-## The Unit Circle
+# The Unit Circle
 
 <p align="center">
   <img src="/MathGym/assets/images/Unit Circle.jpg" alt="Unit Cricle" style="width:100%;">
 </p>
 
-## Trigonometric Identities
+# Trigonometric Identities
 
 <p align="center">
   <table>
@@ -170,7 +172,7 @@ $$ \cos A - \cos B = -2\sin\left( \frac{A + B}{2} \right) \cdot \sin\left( \frac
 </table>
 </p>
 
-## Law of Sine and Cosines
+# Law of Sine and Cosines
 
 Let $\alpha, \beta, \gamma$ be angles of a triangle with opposite corresponding side lengths of $a, b, c$ as shown below.
 
@@ -206,7 +208,7 @@ $$ c^2 = a^2 + b^2 - 2ab \cos \gamma $$
   </table>
 </p>
 
-## Polar Identities
+# Polar Identities
 
 <p align="center">
   <table>
@@ -227,7 +229,7 @@ $$ \tan \theta = \frac{y}{x} $$
 </table>
 </p>
 
-## Exponential/Logarithmic Properties
+# Exponential/Logarithmic Properties
 
 <p align="center">
   <table>
