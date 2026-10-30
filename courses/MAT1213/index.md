@@ -48,24 +48,66 @@ katex: true
   </tr>
   <tr>
     <td>
-The Limit of $f(x)$ as $x$ approaches $a$ from the left is written as
+The limit of $f(x)$ as $x$ approaches $a$ from the left is written as
 $$ \lim_{x \to a^-} f(x) $$
 </td>
     <td>
-The Limit of $f(x)$ as $x$ approaches $a$ is written as
+The limit of $f(x)$ as $x$ approaches $a$ is written as
 $$ \lim_{x \to a} f(x) $$
 </td>
     <td>
-The Limit of $f(x)$ as $x$ approaches $a$ from the right is written as
+The limit of $f(x)$ as $x$ approaches $a$ from the right is written as
 $$ \lim_{x \to a^+} f(x) $$
 </td>
   </tr>
   </table>
 </p>
 
+## Limit Laws
 
-
-
+<p align="center">
+  <table>
+  <tr>
+    <th>Basic Limit Results</th>
+  </tr>
+  <tr>
+    <td>
+For any real number $a$ and any constant $c$,
+$$ \lim_{x \to a} x = a $$
+and
+$$ \lim_{x \to a} c = c $$
+</td>
+  </tr>
+  </table>
+  <table>
+  <tr>
+    <th>Limit Laws</th>
+  </tr>
+  <tr>
+    <td>
+Let $f(x)$ and $g(x)$ be defined for all $x \neq a$ over some open interval containing $a$. Assume that $L$ and $M$ are real numbers such that $\underset{x \to a}\lim f(x) = L$ and $\underset{x \to a}\lim g(x) = M$. Let $c$ be a constant. Then, each of the following statements holds:
+</td>
+  </tr>
+  <tr>
+    <td>
+Sum/Difference law:
+$$ \lim_{x \to a} \left( f(x) \pm g(x)\right) = \lim_{x \to a} f(x) \pm \lim_{x \to a} g(x) = L \pm M $$
+</td>
+  </tr>
+  <tr>
+    <td>
+Constant multiple law:
+$$ \lim_{x \to a} \left( f(x) \cdot g(x)\right) = \lim_{x \to a} f(x) \cdot \lim_{x \to a} g(x) = L \cdot M $$
+</td>
+  </tr>
+  <tr>
+    <td>
+Quotient law:
+$$ \lim_{x \to a} \left( f(x) / g(x)\right) = \lim_{x \to a} f(x) / \lim_{x \to a} g(x) = \frac{L}{M} \text{ for $M \neq 0$} $$
+</td>
+  </tr>
+  </table>
+</p>
 
 
 
