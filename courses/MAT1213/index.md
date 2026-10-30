@@ -24,22 +24,74 @@ katex: true
 </script>
 
 {% endif %}
-# Calculus I Materials
+
+# Table of Contents
+{: .no_toc .text-delta }
 
 - TOC
 {:toc}
 
-## Textbook
+# Textbook
 
-- [Calculus - Volume 1](https://openstax.org/books/calculus-volume-1/pages/1-introduction)
+- [Calculus - Volume 1](https://openstax.org/details/books/calculus-volume-1?Book%20details)
 
-## The Unit Circle
+# Limits
+
+## Notation
+
+<p align="center">
+  <table>
+  <tr>
+    <th>Left Limit</th>
+    <th>General Limit</th>
+    <th>Right Limit</th>
+  </tr>
+  <tr>
+    <td>
+The Limit of $f(x)$ as $x$ approaches $a$ from the left is written as
+$$ \lim_{x \to a^-} f(x) $$
+</td>
+    <td>
+The Limit of $f(x)$ as $x$ approaches $a$ is written as
+$$ \lim_{x \to a} f(x) $$
+</td>
+    <td>
+The Limit of $f(x)$ as $x$ approaches $a$ from the right is written as
+$$ \lim_{x \to a^+} f(x) $$
+</td>
+  </tr>
+  </table>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# The Unit Circle
 
 <p align="center">
   <img src="/MathGym/assets/images/Unit Circle.jpg" alt="Unit Cricle" style="width:100%;">
 </p>
 
-## Trigonometric Identities
+# Trigonometric Identities
 
 <p align="center">
   <table>
@@ -170,7 +222,7 @@ $$ \cos A - \cos B = -2\sin\left( \frac{A + B}{2} \right) \cdot \sin\left( \frac
 </table>
 </p>
 
-## Law of Sine and Cosines
+# Law of Sine and Cosines
 
 Let $\alpha, \beta, \gamma$ be angles of a triangle with opposite corresponding side lengths of $a, b, c$ as shown below.
 
@@ -206,7 +258,7 @@ $$ c^2 = a^2 + b^2 - 2ab \cos \gamma $$
   </table>
 </p>
 
-## Polar Identities
+# Polar Identities
 
 <p align="center">
   <table>
@@ -227,7 +279,7 @@ $$ \tan \theta = \frac{y}{x} $$
 </table>
 </p>
 
-## Exponential/Logarithmic Properties
+# Exponential/Logarithmic Properties
 
 <p align="center">
   <table>
