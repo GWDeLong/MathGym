@@ -202,14 +202,56 @@ $$ c^2 = a^2 + b^2 - 2ab \cos \gamma $$
   </tr>
   </table>
 </p>
+
 ## Polar Identities
+
+<p align="center">
+  <table>
+  <tr>
+    <th>Polar to Rectangular Coordinates</th>
+    <th>Rectangular to Polar Coordinates</th>
+  </tr>
+  <tr>
+    <td>
+$$ x = r \cos \theta $$
+$$ y = r \sin \theta $$
+</td>
+    <td>
+$$ r^2 = x^2 + y^2 $$
+$$ \tan \theta = \frac{y}{x} $$
+</td>
+  </tr>
+</table>
+</p>
 
 ## Exponential/Logarithmic Properties
 
-
-
-
-
+<p align="center">
+  <table>
+  <tr>
+    <th>Exponential Rules</th>
+	<th>Logarithmic Rules</th>
+  </tr>
+  <tr>
+    <td>
+Product Rule
+$$ x^n\cdot x^m = x^{n + m} $$
+Quotient Rule
+$$ \frac{x^n}{x^m} = x^{n - m} $$
+Power Rule
+$$ \left( x^n \right)^m = x^{n\cdot m} $$
+</td>
+    <td>
+Product Rule
+$$ \log(AB) = \log(A) + \log(B) $$
+Quotient Rule
+$$ \log\left(\frac{A}{B}\right) = \log(A) - \log(B) $$
+Power Rule
+$$ \log\left( A^B \right) = B\log(A)$$
+</td>
+  </tr>
+</table>
+</p>
 
 ---
 
