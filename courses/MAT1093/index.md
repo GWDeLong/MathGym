@@ -29,6 +29,9 @@ katex: true
 - TOC
 {:toc}
 
+## Textbook
+
+- [Topics in Precalculus](https://utsa.pressbooks.pub/precalculus/)
 
 ## The Unit Circle
 
