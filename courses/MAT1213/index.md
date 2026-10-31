@@ -155,9 +155,101 @@ A function is discontinuous at a point a if it fails to be continuous at $a$.
   </table>
 </p>
 
+# Derivatives
 
+## Slope
 
+<p align="center">
+  <table>
+  <tr>
+    <th>Slope of the Secant Line</th>
+    <th>Slope of the Tangent Line</th>
+  </tr>
+  <tr>
+    <td>
+$$ m_{\text{sec} = \dfrac{f(x) - f(a)}{x - a} $$
+</td>
+    <td>
+$$ m_{\text{tan} = \lim_{x \to a} \dfrac{f(x) - f(a)}{x - a} $$
+or
+$$ m_{\text{tan} = \lim_{h \to 0} \dfrac{f(a + h) - f(a)}{h} $$
+</td>
+  </tr>
+  </table>
+</p>
 
+## The Derivative
+
+### Limit Definition
+
+<p align="center">
+  <table>
+  <tr>
+    <th>The Derivative at a Point</th>
+  </tr>
+  <tr>
+    <td>
+$$ f'(a) = \lim_{x \to a} \dfrac{f(x) - f(a)}{x - a} $$
+or
+$$ f'(a) = \lim_{h \to 0} \dfrac{f(a + h) - f(a)}{h} $$
+</td>
+  </tr>
+  </table>
+  <table>
+  <tr>
+    <th>The Derivative as a Function</th>
+  </tr>
+  <tr>
+    <td>
+$$ f'(x) = \lim_{h \to 0} \dfrac{f(x + h) - f(x)}{h} $$
+</td>
+  </tr>
+  </table>
+</p>
+
+### Notations
+
+<p align="center">
+  <table>
+  <tr>
+    <th>Newton</th>
+    <th>Leibniz</th>
+  </tr>
+  <tr>
+    <td>
+$$ f'(x) \text{ or } \left( f(x) \right)' $$
+</td>
+    <td>
+$$ \frac{df}{dx}(x) \text{ or } \frac{d}{dx}f(x) $$
+</td>
+  </tr>
+  </table>
+</p>
+
+### Derivative Rules
+
+<p align="center">
+  <table>
+  <tr>
+    <th>Constant Rule</th>
+  </tr>
+  <tr>
+    <td>
+$$  $$
+</td>
+  </tr>
+  </table>
+  <table>
+  <tr>
+    <th>The Derivative as a Function</th>
+  </tr>
+  <tr>
+    <td>
+$$ f'(x) = \lim_{h \to 0} \dfrac{f(x + h) - f(x)}{h} $$
+</td>
+  </tr>
+  </table>
+</p>
 
 
 
@@ -168,7 +260,7 @@ A function is discontinuous at a point a if it fails to be continuous at $a$.
 # The Unit Circle
 
 <p align="center">
-  <img src="/MathGym/assets/images/Unit Circle.jpg" alt="Unit Cricle" style="width:100%;">
+  <img src="/MathGym/assets/images/Unit Circle.jpg" alt="Unit Circle" style="width:100%;">
 </p>
 
 # Trigonometric Identities
