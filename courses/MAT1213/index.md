@@ -167,12 +167,12 @@ A function is discontinuous at a point a if it fails to be continuous at $a$.
   </tr>
   <tr>
     <td>
-$$ m_{\text{sec} = \dfrac{f(x) - f(a)}{x - a} $$
+$$ m_{\text{sec}} = \dfrac{f(x) - f(a)}{x - a} $$
 </td>
     <td>
-$$ m_{\text{tan} = \lim_{x \to a} \dfrac{f(x) - f(a)}{x - a} $$
+$$ m_{\text{tan}} = \lim_{x \to a} \dfrac{f(x) - f(a)}{x - a} $$
 or
-$$ m_{\text{tan} = \lim_{h \to 0} \dfrac{f(a + h) - f(a)}{h} $$
+$$ m_{\text{tan}} = \lim_{h \to 0} \dfrac{f(a + h) - f(a)}{h} $$
 </td>
   </tr>
   </table>
@@ -235,7 +235,7 @@ $$ \frac{df}{dx}(x) \text{ or } \frac{d}{dx}f(x) $$
   </tr>
   <tr>
     <td>
-$$  $$
+$$ \frac{d}{dx} c = 0 $$
 </td>
   </tr>
   </table>
