@@ -4,12 +4,10 @@ layout: home
 nav_order: 1
 ---
 
-<p align="center">
-<figure>
+<figure align="center">
 <img src="/MathGym/assets/images/LogoCombo.png" alt="Math Gym Logo" style="width:50%;">
 <figcaption>Art by C. Duffer, A. Hernandez, and T. Rojas </figcaption>
 </figure>
-</p>
 
 # Welcome!
 
