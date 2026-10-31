@@ -302,6 +302,10 @@ $$ \frac{d}{dx} \left( \frac{f(x)}{g(x)} \right) = \frac{f'(x) g(x) - g'(x) f(x)
   <table>
   <tr>
     <td>
+\begin{align*}
+f(x) &= 2 \\
+3x &= 2
+\end{align*}
 $$ \frac{d}{dx} \sin x = \cos x$$
 $$ \frac{d}{dx} \cos x = -\sin x$$
 $$ \frac{d}{dx} \tan x = \sec^2 x$$
