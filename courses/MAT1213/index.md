@@ -145,13 +145,9 @@ A function is discontinuous at a point a if it fails to be continuous at $a$.
     <td>
   <img src="/MathGym/assets/images/Removable.jpg" alt="Removable Discontinuity" style="width:100%;">
 </td>
-  </tr>
-  <tr>
     <td>
   <img src="/MathGym/assets/images/Jump.jpg" alt="Jump Discontinuity" style="width:100%;">
 </td>
-  </tr>
-  <tr>
     <td>
   <img src="/MathGym/assets/images/Infinite.jpg" alt="Infinite Discontinuity" style="width:100%;">
 </td>
