@@ -4,8 +4,12 @@ layout: home
 nav_order: 1
 ---
 
+<p align="center">
+<figure>
 <img src="/MathGym/assets/images/LogoCombo.png" alt="Math Gym Logo" style="width:50%;">
-Art by Christi Duffer, Alex Hernandez, and Thamara Rojas
+<figcaption>Art by C. Duffer, A. Hernandez, and T. Rojas </figcaption>
+</figure>
+</p>
 
 # Welcome!
 
