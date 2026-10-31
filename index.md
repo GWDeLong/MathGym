@@ -4,6 +4,9 @@ layout: home
 nav_order: 1
 ---
 
+<img src="/MathGym/assets/images/LogoCombo.jpg" alt="Math Gym Logo" style="width:100%;">
+Art by Christi Duffer, Alex Hernandez, and Thamara Rojas
+
 # Welcome!
 
 Welcome to the Math Gym Resources Website created by G. DeLong.
