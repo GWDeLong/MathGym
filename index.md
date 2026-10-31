@@ -4,14 +4,14 @@ layout: home
 nav_order: 1
 ---
 
+# Welcome!
+
+Welcome to the Math Gym Resources Website created by G. DeLong.
+
 <figure align="center">
 <img src="/MathGym/assets/images/LogoCombo.png" alt="Math Gym Logo" style="width:50%;">
 <figcaption>Art by C. Duffer, A. Hernandez, and T. Rojas </figcaption>
 </figure>
-
-# Welcome!
-
-Welcome to the Math Gym Resources Website created by G. DeLong.
 
 Below you can find links to the main website which has in-person Math Gym hours and the link to the virtual Math Gym, as well as useful formula sheets, YouTube recommendations, etc.
 
