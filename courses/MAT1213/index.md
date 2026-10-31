@@ -109,13 +109,55 @@ $$ \lim_{x \to a} \left( f(x) / g(x)\right) = \lim_{x \to a} f(x) / \lim_{x \to 
   </table>
 </p>
 
+## Continuity
 
+### Continuous functions
 
+<p align="center">
+  <table>
+  <tr>
+    <th>Continuity</th>
+  </tr>
+  <tr>
+    <td>
+A Function $f(x)$ is continuous at a point $a$ if and only if the following three conditions are satisfied:
+<ol>
+  <li>$f(a)$ is defined</li>
+  <li>$\underset{x \to a} f(x)$ exists</li>
+  <li>$\underset{x \to a} f(x) = f(a)$</li>
+</ol>
+A function is discontinuous at a point a if it fails to be continuous at $a$.
+</td>
+  </tr>
+  </table>
+</p>
 
+### Discontinuities
 
-
-
-
+<p align="center">
+  <table>
+  <tr>
+    <th>Removable Discontinuity</th>
+    <th>Jump Discontinuity</th>
+    <th>Infinite Discontinuity</th>
+  </tr>
+  <tr>
+    <td>
+  <img src="/MathGym/assets/images/Removable.jpg" alt="Removable Discontinuity" style="width:100%;">
+</td>
+  </tr>
+  <tr>
+    <td>
+  <img src="/MathGym/assets/images/Jump.jpg" alt="Jump Discontinuity" style="width:100%;">
+</td>
+  </tr>
+  <tr>
+    <td>
+  <img src="/MathGym/assets/images/Infinite.jpg" alt="Infinite Discontinuity" style="width:100%;">
+</td>
+  </tr>
+  </table>
+</p>
 
 
 
