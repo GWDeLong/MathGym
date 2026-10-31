@@ -25,8 +25,6 @@ katex: true
 
 {% endif %}
 
-# Table of Contents
-
 <details open markdown="block">
   <summary>
     Table of contents
@@ -183,9 +181,7 @@ $$ m_{\text{tan}} = \lim_{h \to 0} \dfrac{f(a + h) - f(a)}{h} $$
   </table>
 </p>
 
-## The Derivative
-
-### Limit Definition
+## Limit Definition
 
 <p align="center">
   <table>
@@ -212,7 +208,7 @@ $$ f'(x) = \lim_{h \to 0} \dfrac{f(x + h) - f(x)}{h} $$
   </table>
 </p>
 
-### Notations
+## Notations
 
 <p align="center">
   <table>
@@ -231,7 +227,7 @@ $$ \frac{df}{dx}(x) \quad \text{or} \quad \frac{d}{dx}f(x) $$
   </table>
 </p>
 
-### Derivative Rules
+## Derivative Rules
 
 <p align="center">
   <table>
@@ -301,7 +297,7 @@ $$ \frac{d}{dx} \left( \frac{f(x)}{g(x)} \right) = \frac{f'(x) g(x) - g'(x) f(x)
   </table>
 </p>
 
-### Trigonometric Derivatives
+## Trigonometric Derivatives
 
 <p align="center">
   <table>
@@ -337,7 +333,7 @@ $$ \frac{d}{dx} \cot^{-1} x = -\frac{1}{1 + x^2} $$
   </table>
 </p>
 
-### The Chain Rule
+## The Chain Rule
 
 <p align="center">
   <table>
