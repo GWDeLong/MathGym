@@ -296,11 +296,93 @@ $$ \frac{d}{dx} \left( \frac{f(x)}{g(x)} \right) = \frac{f'(x) g(x) - g'(x) f(x)
   </table>
 </p>
 
+### Trigonometric Derivatives
+
+<p align="center">
+  <table>
+  <tr>
+    <td>
+$$ \frac{d}{dx} \sin x = \cos x$$
+$$ \frac{d}{dx} \cos x = -\sin x$$
+$$ \frac{d}{dx} \tan x = \sec^2 x$$
+</td>
+    <td>
+$$ \frac{d}{dx} \sec x = \sec x \tan x$$
+$$ \frac{d}{dx} \csc x = -\csc x \cot x$$
+$$ \frac{d}{dx} \cot x = \csc^2 x$$
+</td>
+  </tr>
+  </table>
+<!-- BREAK -->
+  <table>
+  <tr>
+    <th>Power Rule</th>
+  </tr>
+  <tr>
+    <td>
+$$ \frac{d}{dx} x^n = nx^{n - 1} $$
+</td>
+  </tr>
+  </table>
+<!-- BREAK -->
+  <table>
+  <tr>
+    <th>Sum/Difference Rule</th>
+  </tr>
+  <tr>
+    <td>
+$$ \frac{d}{dx} \left( f(x) \pm g(x) \right) = \frac{d}{dx} \left( f(x) \right) \pm \frac{d}{dx} \left( g(x) \right) $$
+</td>
+  </tr>
+  </table>
+<!-- BREAK -->
+  <table>
+  <tr>
+    <th>Constant Multiple Rule</th>
+  </tr>
+  <tr>
+    <td>
+$$ \frac{d}{dx} \left( kf(x) \right) = k \frac{d}{dx} \left( f(x) \right) $$
+</td>
+  </tr>
+  </table>
+<!-- BREAK -->
+  <table>
+  <tr>
+    <th>Product Rule</th>
+  </tr>
+  <tr>
+    <td>
+$$ \frac{d}{dx} \left( f(x) g(x) \right) = f'(x) g(x) + g'(x) f(x) $$
+</td>
+  </tr>
+  </table>
+<!-- BREAK -->
+  <table>
+  <tr>
+    <th>Quotient Rule</th>
+  </tr>
+  <tr>
+    <td>
+$$ \frac{d}{dx} \left( \frac{f(x)}{g(x)} \right) = \frac{f'(x) g(x) - g'(x) f(x)}{\left( g(x) \right)^2} $$
+</td>
+  </tr>
+  </table>
+</p>
 
 
 
 
-
+  <table>
+  <tr>
+    <th>Chain Rule</th>
+  </tr>
+  <tr>
+    <td>
+$$ \frac{d}{dx} \left( f\left(g(x)\right) \right) = f'\left(g(x)\right)g'(x) $$
+</td>
+  </tr>
+  </table>
 
 # The Unit Circle
 
