@@ -8,7 +8,8 @@ favicon_ico: "/assets/images/mg.ico" #"/assets/images/LogoCombo.png"
 url: https://GWDeLong.github.io/MathGym
 
 aux_links:
-    Main Website: "https://sciences.utsa.edu/mathematics/students/math-gym.html"
+    <img src="/MathGym/assets/images/LogoCombo.png" style="height:100%;">: "https://google.com"
+    #Main Website: "https://sciences.utsa.edu/mathematics/students/math-gym.html"
 
 #Code bits
 #Markdown ![]({{site.baseurl}}/assets/images/X.png)
