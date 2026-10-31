@@ -123,8 +123,8 @@ $$ \lim_{x \to a} \left( f(x) / g(x)\right) = \lim_{x \to a} f(x) / \lim_{x \to 
 A Function $f(x)$ is continuous at a point $a$ if and only if the following three conditions are satisfied:
 <ol>
   <li>$f(a)$ is defined</li>
-  <li>$\underset{x \to a} f(x)$ exists</li>
-  <li>$\underset{x \to a} f(x) = f(a)$</li>
+  <li>$\underset{x \to a}\lim f(x)$ exists</li>
+  <li>$\underset{x \to a}\lim f(x) = f(a)$</li>
 </ol>
 A function is discontinuous at a point a if it fails to be continuous at $a$.
 </td>
@@ -217,10 +217,10 @@ $$ f'(x) = \lim_{h \to 0} \dfrac{f(x + h) - f(x)}{h} $$
   </tr>
   <tr>
     <td>
-$$ f'(x) \text{ or } \left( f(x) \right)' $$
+$$ f'(x) \quad \text{or} \quad \left( f(x) \right)' $$
 </td>
     <td>
-$$ \frac{df}{dx}(x) \text{ or } \frac{d}{dx}f(x) $$
+$$ \frac{df}{dx}(x) \quad \text{or} \quad \frac{d}{dx}f(x) $$
 </td>
   </tr>
   </table>
@@ -239,13 +239,58 @@ $$ \frac{d}{dx} c = 0 $$
 </td>
   </tr>
   </table>
+<!-- BREAK -->
   <table>
   <tr>
-    <th>The Derivative as a Function</th>
+    <th>Power Rule</th>
   </tr>
   <tr>
     <td>
-$$ f'(x) = \lim_{h \to 0} \dfrac{f(x + h) - f(x)}{h} $$
+$$ \frac{d}{dx} x^n = nx^{n - 1} $$
+</td>
+  </tr>
+  </table>
+<!-- BREAK -->
+  <table>
+  <tr>
+    <th>Sum/Difference Rule</th>
+  </tr>
+  <tr>
+    <td>
+$$ \frac{d}{dx} \left( f(x) \pm g(x) \right) = \frac{d}{dx} \left( f(x) \right) \pm \frac{d}{dx} \left( g(x) \right) $$
+</td>
+  </tr>
+  </table>
+<!-- BREAK -->
+  <table>
+  <tr>
+    <th>Constant Multiple Rule</th>
+  </tr>
+  <tr>
+    <td>
+$$ \frac{d}{dx} \left( kf(x) \right) = k \frac{d}{dx} \left( f(x) \right) $$
+</td>
+  </tr>
+  </table>
+<!-- BREAK -->
+  <table>
+  <tr>
+    <th>Product Rule</th>
+  </tr>
+  <tr>
+    <td>
+$$ \frac{d}{dx} \left( f(x) g(x) \right) = f'(x) g(x) + g'(x) f(x) $$
+</td>
+  </tr>
+  </table>
+<!-- BREAK -->
+  <table>
+  <tr>
+    <th>Quotient Rule</th>
+  </tr>
+  <tr>
+    <td>
+$$ \frac{d}{dx} \left( \frac{f(x)}{g(x)} \right) = \frac{f'(x) g(x) - g'(x) f(x)}{\left( g(x) \right)^2} $$
 </td>
   </tr>
   </table>
