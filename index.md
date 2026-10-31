@@ -40,7 +40,7 @@ Below you can find links to the main website which has in-person Math Gym hours 
 <!--- - MAT 2253 -- Applied Linear Algebra -->
 <!--- - MAT 3613 -- Differential Equations -->
 
-For the following courses, it may be useful to browse [The Organic Chemistry Tutor's YouTube](The Organic Chemistry Tutor) or simply seach "Org Chem Tutor \<TOPIC\>.
+For the following courses, it may be useful to browse [The Organic Chemistry Tutor's YouTube](The Organic Chemistry Tutor) or simply seach "Org Chem Tutor \<TOPIC\>".
 
 - General Algebra
 - MAT 1093 -- Precalculus
