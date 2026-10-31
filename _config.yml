@@ -2,7 +2,7 @@ title: Math Gym
 description: Resources compiled for the UT San Antonio Math Gym
 theme: just-the-docs
 color_scheme: light
-logo: "/assets/images/LogoCombo.png"
+logo: <img src="{{site.baseurl}}/assets/images/LogoCombo.png" alt="Art by Christi Duffer, Alex Hernandez, and Thamara Rojas" width="200"/>
 favicon_ico: "/assets/images/mg.ico"
 
 url: https://GWDeLong.github.io/MathGym
