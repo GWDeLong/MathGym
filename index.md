@@ -19,14 +19,14 @@ Below you can find links to the main website which has in-person Math Gym hours 
 ## Browse by Topic
 - [MAT 1093 -- Precalculus][1093]
 <!--- - MAT 1133 -- Calculus for Business -->
-- MAT 1193 -- Calculus for Biosciences
+<!--- - MAT 1193 -- Calculus for Biosciences -->
 - [MAT 1213/1214 -- Calculus I][1213]
-- MAT 1223/1224 -- Calculus II
-- MAT 1313 -- Algebra and Number Systems
-- MAT 2213/2214 -- Calculus III
-- MAT 2233 -- Linear Algebra
-- MAT 2253 -- Applied Linear Algebra
-- MAT 3613 -- Differential Equations
+<!--- - MAT 1223/1224 -- Calculus II -->
+<!--- - MAT 1313 -- Algebra and Number Systems -->
+<!--- - MAT 2213/2214 -- Calculus III -->
+<!--- - MAT 2233 -- Linear Algebra -->
+<!--- - MAT 2253 -- Applied Linear Algebra -->
+<!--- - MAT 3613 -- Differential Equations -->
 
 [1093]: /MathGym/courses/MAT1093/
 [1213]: /MathGym/courses/MAT1213/
