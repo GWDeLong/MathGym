@@ -2,13 +2,10 @@ title: Math Gym
 description: Resources compiled for the UT San Antonio Math Gym
 theme: just-the-docs
 color_scheme: light
-logo: "/MathGym/assets/images/LogoCombo.png" #<img src="/MathGym/assets/images/LogoCombo.png" width="48">
-favicon_ico: "/assets/images/mg.ico"
+logo:  <img src="/MathGym/assets/images/LogoCombo.png">
+favicon_ico: "/assets/images/mg.ico" #"/assets/images/LogoCombo.png"
 
 url: https://GWDeLong.github.io/MathGym
-
-#plugins:
-#- jekyll-katex
 
 aux_links:
     Main Website: "https://sciences.utsa.edu/mathematics/students/math-gym.html"
