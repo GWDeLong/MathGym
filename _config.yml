@@ -2,7 +2,7 @@ title: Math Gym
 description: Resources compiled for the UT San Antonio Math Gym
 theme: just-the-docs
 color_scheme: light
-logo: <img src="/assets/images/LogoCombo.png" width="48">
+logo: "/assets/images/LogoCombo.png" #<img src="/MathGym/assets/images/LogoCombo.png" width="48">
 favicon_ico: "/assets/images/mg.ico"
 
 url: https://GWDeLong.github.io/MathGym
